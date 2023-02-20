@@ -2,7 +2,9 @@
 
 I am a Java developer working on Minecraft multiplayer game extensions (including but not limited to plugins, tools, websites, etc.).
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yurinann&show_icons=true&locale=cn&include_all_commits=true&count_private=true&shide_title=false"/>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Yurinann&count_private=true&include_all_commits=true")
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yurinann&layout=compact)
 
 #
 
