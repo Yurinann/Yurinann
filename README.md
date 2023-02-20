@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Yurinann
-- 👀 I’m a Java developer and I'm interested in Minecraft Development
-- 🌱 I’m currently learning 
-- 💞️ I’m working on my own and powered by love
-- 📫 You can reach me at this issue
+**Hi, I'm Yurinann! (๑´∀`๑)**
 
-Edit waiting...
+I am a Java developer working on Minecraft multiplayer game extensions (including but not limited to plugins, tools, websites, etc.).
+6
