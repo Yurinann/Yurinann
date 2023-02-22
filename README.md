@@ -15,7 +15,9 @@ The organization I founded:
 - Luneurs Studio @ 2022-2023.
 
 Contact me: 
-- 📭🐧 | 1713574450@qq.com
+- 📭🐧 | 1713574450(@qq.com)
+- ☁️👁️ | @Yuri南城
+
 
 #
 
