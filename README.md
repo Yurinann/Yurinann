@@ -12,10 +12,10 @@ I am a Java developer working on Minecraft multiplayer game extensions (includin
 
 The organization I founded:
 - **YuriProjects 屿日企画**
-- Luneurs Studio @ 2022-2023.
+- Luneurs Studio 🌙 @ 2022-2023.
 
 Contact me: 
-- 📭🐧 | 1713574450(@qq.com)
+- 📭🐧 | 1713574450@qq.com
 - ☁️👁️ | @Yuri南城
 
 #
