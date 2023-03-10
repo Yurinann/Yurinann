@@ -1,6 +1,10 @@
 ### Hi, I'm Yurinann! (๑´∀`๑)
 
-I am a Java developer working on Minecraft multiplayer game extensions (including but not limited to plugins, tools, websites, etc.).
+I am a backend developer who primarily works on Minecraft multiplayer game extensions such as plugins, tools, and websites.
+
+I adhere to a "useless" romanticism and am determined to carry it on as a tradition.
+
+<br>
 
 ![Github Stats](https://github-readme-stats-yurinann.vercel.app/api?username=Yurinann&count_private=true&include_all_commits=true")
 
@@ -23,4 +27,4 @@ Contact me:
 <br>
 
 Powered By Yuri with ❤️.
-> “十三至晚就是你”
+> hey dont forget to hug me please .
