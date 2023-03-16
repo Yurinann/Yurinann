@@ -1,8 +1,9 @@
 ### Hi, I'm Yurinann! (๑´∀`๑)
 
 I am a backend developer who primarily works on Minecraft multiplayer game extensions such as plugins, tools, and websites.
+> "Those frivolous bites at the end remind me of the courage of a crooked head touching the sky"
 
-I adhere to a "useless" romanticism and am determined to carry it on as a tradition.
+#
 
 <br>
 
@@ -19,8 +20,8 @@ The organization I founded:
 - Luneurs Studio 🌙 @ 2022-2023.
 
 Contact me: 
-- 📭🐧 | 1713574450@qq.com
-- ☁️👁️ | @Yuri南城
+- 📭 | sukium@vip.qq.com
+- ☁️ | @Yuri南城
 
 #
 
